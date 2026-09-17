@@ -40,6 +40,14 @@ header {
     margin-right: auto;
 }
 
+.logo img {
+    display: block;
+    width: 210px;
+    height: auto;
+    max-height: 65px;
+    object-fit: contain;
+}
+
 .logo h1 {
     font-size: 28px;
     letter-spacing: 3px;
