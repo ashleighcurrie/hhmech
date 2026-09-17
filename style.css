@@ -448,4 +448,5 @@ footer a:hover {
     .hero .eyebrow {
     font-size: 10px;
     letter-spacing: 2px;
+    max-width: 300px;
 }
