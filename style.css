@@ -340,8 +340,29 @@ nav a:hover {
 footer {
     background: #171717;
     color: #888;
-    padding: 30px 8%;
+    padding: 35px 8%;
     font-size: 12px;
+}
+
+footer p {
+    margin-bottom: 8px;
+}
+
+footer p:last-child {
+    margin-bottom: 0;
+}
+
+footer strong {
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #145976;
 }
 
 
