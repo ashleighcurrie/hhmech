@@ -264,12 +264,14 @@ nav a:hover {
 
 .parts h2 {
     margin-bottom: 20px;
+    color: #ffffff;
 }
 
 .parts > p:not(.eyebrow) {
     max-width: 700px;
     font-size: 18px;
     margin-bottom: 30px;
+    color: #ffffff;
 }
 
 .dark-button {
