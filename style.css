@@ -291,6 +291,32 @@ nav a:hover {
     background: #f3f3f1;
 }
 
+.contact-details {
+    display: flex;
+    gap: 50px;
+    margin: 35px 0;
+}
+
+.contact-details p {
+    margin: 0;
+}
+
+.contact-details strong {
+    display: block;
+    color: #145976;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.contact-details a {
+    color: #202020;
+}
+
+.contact-details a:hover {
+    color: #145976;
+}
 .contact-content {
     max-width: 850px;
 }
