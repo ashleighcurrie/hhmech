@@ -117,8 +117,8 @@ nav a:hover {
         ),
         url("pump-rebuild.png");
 
-    background-size: 90% auto;
-    background-position: right center;
+    background-size: cover;
+    background-position: 65% center;
     background-repeat: no-repeat;
 
     color: white;
