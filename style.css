@@ -75,7 +75,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #d9a13a;
+    color: #145976;
 }
 
 .quote-button,
@@ -90,7 +90,7 @@ nav a:hover {
 
 .quote-button,
 .hero-button {
-    background: #d19a32;
+    background: #145976;
     color: #111;
 }
 
@@ -125,7 +125,7 @@ nav a:hover {
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 3px;
-    color: #d19a32;
+    color: #145976;
     margin-bottom: 18px;
 }
 
@@ -229,7 +229,7 @@ nav a:hover {
 
 .parts {
     padding: 100px 8%;
-    background: #d19a32;
+    background: #145976;
 }
 
 .parts .eyebrow {
