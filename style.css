@@ -368,6 +368,10 @@ footer a:hover {
 
 /* MOBILE */
 
+.mobile-break {
+    display: inline;
+}
+
 @media (max-width: 850px) {
 
     header {
@@ -449,4 +453,8 @@ footer a:hover {
     font-size: 10px;
     letter-spacing: 2px;
     max-width: 300px;
+
+    .mobile-break {
+    display: block;
+}
 }
