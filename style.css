@@ -373,7 +373,7 @@ footer a:hover {
     header {
         flex-wrap: wrap;
         gap: 15px;
-        padding: 18px 6%;
+        padding: 10px 6%;
     }
 
     nav {
