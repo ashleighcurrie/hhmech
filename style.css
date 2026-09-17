@@ -392,6 +392,11 @@ footer {
     .contact {
         padding: 80px 7%;
     }
+
+    .contact-details {
+    flex-direction: column;
+     gap: 20px;
+    }
 }
 
 
