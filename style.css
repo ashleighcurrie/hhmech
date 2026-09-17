@@ -96,11 +96,10 @@ nav a:hover {
 
 .quote-button:hover,
 .hero-button:hover {
-    background: #e4ae48;
+    background: #0f4359;
 }
 
 
-/* HERO */
 /* HERO */
 
 .hero {
@@ -211,7 +210,7 @@ nav a:hover {
     display: block;
     font-size: 13px;
     font-weight: bold;
-    color: #c58b25;
+    color: #145976;
     margin-bottom: 35px;
 }
 
