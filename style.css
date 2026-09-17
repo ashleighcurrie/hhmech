@@ -91,7 +91,7 @@ nav a:hover {
 .quote-button,
 .hero-button {
     background: #145976;
-    color: #111;
+    color: white;
 }
 
 .quote-button:hover,
@@ -103,7 +103,7 @@ nav a:hover {
 /* HERO */
 
 .hero {
-    min-height: 680px;
+    min-height: 620px;
     display: flex;
     align-items: center;
 
@@ -117,7 +117,7 @@ nav a:hover {
         ),
         url("pump-rebuild.png");
 
-    background-size: auto 100%;
+    background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
 
