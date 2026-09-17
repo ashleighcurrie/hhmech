@@ -26,8 +26,8 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background: #171717;
-    color: white;
+    background: #ffffff;
+    color: #202020;
     min-height: 82px;
     padding: 15px 6%;
     display: flex;
@@ -70,7 +70,7 @@ nav a {
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 1px;
-    color: #ddd;
+    color: #222;
     transition: color 0.2s;
 }
 
