@@ -8,6 +8,10 @@ html {
     scroll-behavior: smooth;
 }
 
+section {
+    scroll-margin-top: 85px;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background: #f3f3f1;
@@ -445,6 +449,7 @@ footer a:hover {
 
     .service-card {
         padding: 35px;
+        min-height: auto;
     }
 
     .services,
