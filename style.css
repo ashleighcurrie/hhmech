@@ -442,7 +442,11 @@ footer a:hover {
         min-height: 600px;
         padding: 80px 7%;
     }
-
+    
+    .form-row {
+        grid-template-columns: 1fr;
+    }
+    
     .service-grid {
         grid-template-columns: 1fr;
     }
