@@ -233,12 +233,14 @@
                     <input type="hidden" name="access_key" value="64016305-a57d-45a6-9740-b42113746e45">
                     <input type="hidden" name="redirect" value="https://ashleighcurrie.github.io/hhmech/?submitted=true#contact">
                     <input type="hidden" name="subject" value="New Quote Enquiry - HH Mech">
+
+                    <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
                     
                     <div class="form-row">
     
                         <div class="form-group">
                             <label for="name">Name</label>
-                            <input type="text" id="name" name="name" required>
+                            <input type="text" id="name" name="name" autocomplete="name" required>
                         </div>
 
                         <div class="form-group">
@@ -253,12 +255,12 @@
 
                         <div class="form-group">
                             <label for="phone">Phone</label>
-                            <input type="tel" id="phone" name="phone" required>
+                            <input type="tel" id="phone" name="phone" autocomplete="tel" required>
                         </div>
 
                         <div class="form-group">
                             <label for="email">Email</label>
-                            <input type="email" id="email" name="email" required>
+                            <input type="email" id="email" name="email" autocomplete="email" required>
                         </div>
 
                     </div>
@@ -352,9 +354,16 @@
     "@type": "LocalBusiness",
     "name": "Heavy Hydraulic & Mechanical",
     "description": "Heavy hydraulic and mechanical repairs, hydraulic pump servicing, rebuilds and parts.",
-    "telephone": "021 150 1432",
+    "telephone": "+64-21-150-1432",
     "email": "anton@hhmech.co.nz",
-    "url": "https://ashleighcurrie.github.io/hhmech/",
+    "url": "https://hhmech.co.nz/",
+    "image": "https://hhmech.co.nz/pump-rebuild2.png",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Matangi",
+        "addressRegion": "Waikato",
+        "addressCountry": "NZ"
+    },
     "areaServed": {
         "@type": "AdministrativeArea",
         "name": "Waikato"
