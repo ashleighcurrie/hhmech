@@ -322,6 +322,24 @@
 
     </footer>
 
+    <script>
+    const params = new URLSearchParams(window.location.search);
+
+    if (params.get("submitted") === "true") {
+        const message = document.createElement("div");
+
+        message.textContent = "Thanks for getting in touch. Your enquiry has been sent to HH Mech.";
+
+        message.style.background = "#145976";
+        message.style.color = "#ffffff";
+        message.style.padding = "18px 25px";
+        message.style.margin = "30px 0";
+        message.style.fontWeight = "bold";
+
+        document.querySelector(".quote-form").prepend(message);
+    }
+</script>
+    
 </body>
 
 </html>
