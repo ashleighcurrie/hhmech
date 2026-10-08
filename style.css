@@ -472,6 +472,7 @@ footer a:hover {
     
     .form-row {
         grid-template-columns: 1fr;
+        gap: 0;
     }
     
     .service-grid {
