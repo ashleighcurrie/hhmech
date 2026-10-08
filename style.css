@@ -271,7 +271,7 @@ nav a:hover {
     color: #ffffff;
 }
 
-.parts > p:not(.eyebrow) {
+.parts.content > p:not(.eyebrow) {
     max-width: 700px;
     font-size: 18px;
     margin-bottom: 30px;
