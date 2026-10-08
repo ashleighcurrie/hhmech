@@ -474,6 +474,10 @@ footer a:hover {
         grid-template-columns: 1fr;
         gap: 0;
     }
+
+    .form-group {
+    margin-bottom: 18px;
+    }
     
     .service-grid {
         grid-template-columns: 1fr;
