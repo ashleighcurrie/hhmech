@@ -262,6 +262,13 @@ nav a:hover {
     background: #145976;
 }
 
+.parts {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 70px;
+    align-items: center;
+}
+
 .parts .eyebrow {
     color: #ffffff;
 }
