@@ -388,7 +388,7 @@ nav a:hover {
 }
 
 .contact-content {
-    max-width: 850px;
+    max-width: 100%;
 }
 
 .contact h2 {
