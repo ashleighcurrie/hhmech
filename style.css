@@ -265,8 +265,8 @@ nav a:hover {
 .parts {
     display: grid;
     grid-template-columns: 1fr 1.2fr;
-    gap: 0;
-    align-items: stretch;
+    gap: 70px;
+    align-items: center;
 }
 
 .parts .eyebrow {
