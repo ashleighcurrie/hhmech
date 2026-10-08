@@ -287,6 +287,7 @@ nav a:hover {
 
 .parts-content {
     max-width: 700px;
+    padding-left: 8vw;
 }
 
 .parts-image {
