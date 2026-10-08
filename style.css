@@ -317,7 +317,7 @@ nav a:hover {
     padding: 100px 10%;
     background: #f3f3f1;
     display: grid;
-    grid-template-columns: 0.9fr 1.1fr;
+    grid-template-columns: 1.1fr 1fr;
     gap: 80px;
     align-items: start;
 }
