@@ -515,7 +515,7 @@ footer a:hover {
     .contact-details {
     flex-direction: column;
     gap: 28px;
-    margin: 20px 0 5px;
+    margin: 20px 0 0;
     }
 
     .contact-details strong {
