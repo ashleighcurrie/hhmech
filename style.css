@@ -517,6 +517,10 @@ footer a:hover {
     gap: 22px;
     margin: 20px 0;
     }
+
+    .contact-details strong {
+    margin-bottom: 0;
+    }
 }
 
 
